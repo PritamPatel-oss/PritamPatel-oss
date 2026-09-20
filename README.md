@@ -229,7 +229,7 @@ Hands-on development of web applications and backend APIs using modern web techn
 
 <p align="center">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/PritamPatel-oss">
     <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub">
   </a>
 
@@ -237,7 +237,7 @@ Hands-on development of web applications and backend APIs using modern web techn
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn">
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:pritampatel39998@gmail.com">
     <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email">
   </a>
 
