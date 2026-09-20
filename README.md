@@ -1,74 +1,97 @@
-#<h1 align="center">Hi 👋, I'm Pawan Kumar Gupta</h1>
+<h1 align="center">Hi 👋, I'm Pritam Patel</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Graduate+Engineer+Trainee+%40+Sopra+Steria;SQL+Server+%7C+SSIS+%7C+ETL;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Always+Learning+%26+Building&center=true&width=600&height=45" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+%7C+Mathematics+%26+Computing;C%2B%2B+%7C+Python+Developer;DSA+%26+Problem+Solving;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Always+Learning+%26+Building&center=true&width=650&height=45" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawangupta079&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
 </p>
 
 <p align="center">
-  <b>💼 Engineer Trainee @ Sopra Steria &nbsp;•&nbsp; 🗄️ SQL & SSIS &nbsp;•&nbsp; 🤖 AI/ML &nbsp;•&nbsp; 🌐 Full Stack</b>
+  <b>💻 Software Development &nbsp;•&nbsp; 🧠 DSA & Problem Solving &nbsp;•&nbsp; 🤖 AI/ML &nbsp;•&nbsp; 🌐 Full Stack</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science & Engineering graduate specializing in **Artificial Intelligence & Machine Learning**.
+🎓 Pursuing **B.Tech in Mathematics & Computing**, with a strong interest in software development and problem solving.
 
-💼 Currently working as a **Graduate Engineer Trainee (GET) at Sopra Steria**.
+💻 I enjoy building applications using **C++, Python, JavaScript and SQL**.
 
-🗄️ My current technical focus is **Microsoft SQL Server, T-SQL, SSIS and ETL/Data Integration**.
+🧠 Currently focused on **Data Structures & Algorithms, competitive programming and LeetCode problem solving**.
 
-🤖 Alongside data engineering, I enjoy working with **AI/ML, Generative AI and intelligent applications**.
+🤖 I also explore **Artificial Intelligence, Machine Learning, Computer Vision and Generative AI**.
 
-🌐 I also have hands-on experience with **Full Stack Web Development and REST APIs**.
+🌐 I have hands-on experience building **web applications, REST APIs and full-stack projects**.
 
-> **Learn → Build → Debug → Improve 🚀**
+🚀 I enjoy turning ideas into working projects and continuously improving my development skills.
+
+> **Learn → Code → Build → Debug → Improve 🚀**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" alt="Programming Languages">
 </p>
 
-### 🗄️ Data & ETL
+**C++** • **Python** • **Java** • **JavaScript**
+
+---
+
+### 🧠 DSA & Problem Solving
+
+`Data Structures` `Algorithms` `Arrays` `Strings` `Linked List`  
+`Stack` `Queue` `Trees` `Graphs` `Recursion` `Dynamic Programming`  
+`Searching` `Sorting` `Sliding Window` `Two Pointers` `Problem Solving`
+
+Currently practicing **DSA and LeetCode** to strengthen problem-solving and interview preparation.
+
+---
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,flask" alt="Web Development">
+</p>
+
+**HTML** • **CSS** • **JavaScript** • **React.js**  
+**Node.js** • **Express.js** • **Flask** • **REST APIs**
+
+---
+
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases">
 </p>
 
-**SQL Server** • **T-SQL** • **SSIS** • **ETL** • Data Integration • Stored Procedures • CTEs • Window Functions • Query Optimization
+**SQL** • **MySQL** • **MongoDB** • **DBMS**
 
-**SSIS:** Control Flow • Data Flow • Lookup • Conditional Split • Derived Column • Data Conversion • Execute SQL Task • Variables & Expressions • Error Handling
+---
 
 ### 🤖 AI / ML
 
-**NumPy** • **Pandas** • **Scikit-learn** • Machine Learning • GenAI • LLMs • RAG • LangChain • Hugging Face
+**Machine Learning** • **Deep Learning** • **CNN**  
+**Computer Vision** • **TensorFlow** • **Keras** • **OpenCV**  
+**NumPy** • **Pandas** • **Generative AI**
 
-### 🌐 Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,django" alt="Development">
-</p>
-
-**React.js** • **Node.js** • **Express.js** • **Flask** • **Django** • REST APIs • MERN
-
-### 🧰 Tools
+### 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools">
 </p>
 
-**Git** • **GitHub** • **Postman** • **VS Code** • **AWS/GCP Fundamentals**
+**Git** • **GitHub** • **VS Code** • **Postman** • **XAMPP**
 
 ---
 
@@ -78,22 +101,25 @@
 <tr>
 <td width="50%">
 
-### 🎓 MyTutor
-**Offline Tutoring Platform**
+### 🤖 RecoverAI
 
-A MERN-based platform designed to connect learners and tutors for offline tutoring.
+**AI-Powered Recovery & Transaction Platform**
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+A web-based application focused on helping users manage and recover transaction-related issues with an intelligent workflow.
+
+`Python` `FastAPI` `SQLAlchemy` `Razorpay` `REST API`
 
 </td>
+
 <td width="50%">
 
-### 💼 SkillHire
-**AI-Powered Job Matching**
+### 🔥 AI Fire Detection System
 
-A platform designed to match candidates with suitable job opportunities using AI-oriented approaches.
+**CNN-Based Fire Detection**
 
-`MERN` `AI/ML`
+An AI-based computer vision system designed to detect fire using image/video analysis and deep learning.
+
+`Python` `CNN` `TensorFlow` `Keras` `OpenCV` `Flask`
 
 </td>
 </tr>
@@ -101,22 +127,25 @@ A platform designed to match candidates with suitable job opportunities using AI
 <tr>
 <td width="50%">
 
-### 🏋️ FitTab
-**Fitness Tracking & Analysis**
+### 🛒 Python Online Shopping Cart
 
-A computer-vision based application for workout tracking and analysis.
+**Console-Based Shopping Cart**
 
-`Python` `Flask` `MediaPipe`
+A Python application implementing product management, cart operations, item selection and billing/total calculation.
+
+`Python` `Data Structures` `OOP` `Modular Programming`
 
 </td>
+
 <td width="50%">
 
-### 🤖 AI Interview Assistant
-**Resume & Interview Analysis**
+### 🌐 Web Development Projects
 
-An AI-assisted application supporting resume upload, evaluation and candidate scoring.
+**Full Stack & API Development**
 
-`React.js` `Node.js` `AI`
+Hands-on development of web applications and backend APIs using modern web technologies.
+
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `Flask`
 
 </td>
 </tr>
@@ -126,42 +155,35 @@ An AI-assisted application supporting resume upload, evaluation and candidate sc
 
 ## 🧠 Core Skills
 
-`SQL` `T-SQL` `SSIS` `ETL` `Data Integration`  
-`Python` `Java` `C++` `JavaScript`  
-`DBMS` `OOPs` `DSA` `REST APIs`  
-`AI/ML` `GenAI` `LLMs` `RAG` `Problem Solving`
-
----
-
-## 🏆 Achievements
-
-- ⭐ **CodeChef — 2★ Coder**
-- 📊 **Kaggle — Top 50%** in Abalone Regression competition
-- 🏅 **Top 10 in district** in Class 10 board examination
-- 🗣️ District-level **Debate Participant**
-- 🏆 **Kho-Kho Winner**
-- 🎓 **HDFC Bank Merit-Based Scholarship** recipient
+`C++` `Python` `Java` `JavaScript`  
+`DSA` `Algorithms` `OOP` `DBMS` `SQL`  
+`HTML` `CSS` `React` `Node.js` `Express` `Flask`  
+`REST APIs` `Git` `GitHub`  
+`Machine Learning` `Deep Learning` `CNN` `Computer Vision`  
+`Problem Solving` `LeetCode`
 
 ---
 
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/u/pawan079/">
+
+  <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://www.codechef.com/users/pkg739895">
+
+  <a href="https://www.codechef.com/">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
-  <a href="https://www.geeksforgeeks.org/user/pkg73pawan/">
+
+  <a href="https://www.geeksforgeeks.org/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
-  <a href="https://www.hackerrank.com/profile/pkg739895">
+
+  <a href="https://www.hackerrank.com/">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
-  <a href="https://www.kaggle.com/pawankmgupta">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
+
 </p>
 
 ---
@@ -169,12 +191,13 @@ An AI-assisted application supporting resume upload, evaluation and candidate sc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pawangupta079&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pawangupta079&layout=compact&langs_count=6&theme=algolia" alt="Top Languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=algolia" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawangupta079&theme=monokai-metallian&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=monokai-metallian&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -182,47 +205,44 @@ An AI-assisted application supporting resume upload, evaluation and candidate sc
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/pawangupta079">
-    <img
-      src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
-      width="150"
-      alt="Quickdraw"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pawangupta079">
-    <img
-      src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
-      width="150"
-      alt="Pull Shark"
-    />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="150" alt="Quickdraw">
   </a>
 </p>
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 Advanced **Data Structures & Algorithms**
+- 💻 **C++** for competitive programming and interviews
+- 🐍 Advanced **Python**
+- 🤖 **Machine Learning & Deep Learning**
+- 🌐 **Full Stack Development**
+- 🔌 **REST API Development**
+- 🗄️ **SQL & Database Management**
+- 🚀 Building and deploying real-world projects
+
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://pawan-website-835b06.netlify.app/">
-    <img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio">
-  </a>
-  <a href="https://github.com/pawangupta079">
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/pawan-kumar-gupta-592463254/">
+
+  <a href="https://www.linkedin.com/">
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn">
   </a>
-  <a href="https://x.com/pawangupta/">
-    <img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="X">
-  </a>
-  <a href="https://www.instagram.com/er.p1kg/">
-    <img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram">
-  </a>
-  <a href="mailto:pkg739895@gmail.com">
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email">
   </a>
+
 </p>
 
 <p align="center">
-  <i>Building with code. Growing with every challenge. 🚀</i>
+  <i>Code. Build. Solve. Learn. Repeat. 🚀</i>
 </p>
