@@ -168,9 +168,9 @@ Hands-on development of web applications and backend APIs using modern web techn
 
 <p align="left">
 
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
+ <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
 
   <a href="https://www.codechef.com/">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
